@@ -11,7 +11,7 @@ credits: true
 {% include feature/jumbotron.html objectid="https://www.smcm.edu/news/wp-content/uploads/sites/35/2016/09/smcm-aerial-shot.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
-{% include feature/button.html text="Button Link to St. Mary's Project Explanation" link="https://www.smcm.edu/academics/capstone-experience/st-marys-project-guidelines/" color="success" %}
+{% include feature/button.html text="What is a St. Mary's Project?" link="https://www.smcm.edu/academics/capstone-experience/st-marys-project-guidelines/" color="success" %}
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
