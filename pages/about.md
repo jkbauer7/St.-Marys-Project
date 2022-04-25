@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="coll015" %}
+{% include feature/jumbotron.html objectid="https://www.smcm.edu/news/wp-content/uploads/sites/35/2016/09/smcm-aerial-shot.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
